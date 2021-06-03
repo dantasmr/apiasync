@@ -38,13 +38,13 @@
 		<dependency>
 			<groupId>org.jboss.resteasy</groupId>
 			<artifactId>resteasy-client</artifactId>
-			<version>3.0.2.Final</version>
+			<version>4.5.7.Final</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jboss.resteasy/resteasy-client -->
 		<dependency>
 			<groupId>org.jboss.resteasy</groupId>
 			<artifactId>resteasy-client</artifactId>
-			<version>4.1.0.Final</version>
+			<version>4.5.7.Final</version>
 		</dependency>
 	</dependencies>
 
